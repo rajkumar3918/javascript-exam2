@@ -1,7 +1,7 @@
 const num = 16;
 var res = false
 
-for(var i=0; i<14; i++){
+for(var i=0; i<num; i++){
     if(i*4 === num){
         res = true
     }
